@@ -1,0 +1,11 @@
+.head {
+  height: 200px;
+  background-color: #292c2f;
+  box-shadow: 0 1px 1px #ccc;
+  padding: 20px 40px;
+  color: #ffffff;
+  box-sizing: border-box;
+  top: -100px;
+  text-align: center;
+  font-family: sans-serif;
+}
